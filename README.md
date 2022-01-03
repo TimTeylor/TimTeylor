@@ -1,6 +1,6 @@
 ## Hello! My name is Pavel
 
-- 🔭 I’m currently working on Full Stack
+- 🔭 I’m currently working as a Full Stack
 - 🌱 I’m currently learning DevOps
 
 <div align="center">
