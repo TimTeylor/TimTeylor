@@ -1,4 +1,4 @@
-## Hello! My name is Pavel
+## Hello! My name is Pavel.
 
 - 🔭 I’m currently working as a Full Stack
 - 🌱 I’m currently learning DevOps
