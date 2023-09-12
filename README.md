@@ -1,4 +1,4 @@
-## Hello! My name is Pavel.
+## GM :)
 
 - 🔭 I’m currently working as a Full Stack
 - 🌱 I’m currently learning web3
